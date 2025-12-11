@@ -1,5 +1,5 @@
 import sys
-import puzzle_10.part_2 as puzzle
+import puzzle_11.part_2 as puzzle
 import time
 
 start = time.time()
